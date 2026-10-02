@@ -1,5 +1,7 @@
 # 4D BIM Training Analytics Dashboard
 
+**Live demo:** https://mertyucesoy.github.io/bim-4d-training-dashboard/
+
 Interactive, single-file dashboard I built to track participant performance in a Synchro Pro 4D BIM training programme delivered to a large contractor's engineering team on a supertall tower project.
 
 > **Note:** This is an anonymised portfolio version. Client, project and participant names have been removed and replaced with codes. It is not the client deliverable.
@@ -36,4 +38,4 @@ Training managers needed to answer, after every session:
 
 ## Run
 
-Open `index.html` in a browser, or view it on GitHub Pages.
+View the [live demo](https://mertyucesoy.github.io/bim-4d-training-dashboard/), or open `index.html` in a browser.
