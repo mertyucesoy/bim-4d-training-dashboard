@@ -31,7 +31,7 @@ Training managers needed to answer, after every session:
 ## Tech
 
 - Plain HTML, CSS and JavaScript in one self-contained file
-- Chart.js for charts, SheetJS for Excel export
+- Chart.js for charts, GSAP for scroll animations
 - The original version also had an AI assistant for natural-language questions on the data. It is disabled here because a static site cannot hold an API key securely.
 
 ## Run
